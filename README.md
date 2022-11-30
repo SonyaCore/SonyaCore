@@ -3,7 +3,6 @@
         </samp>
 </h3>
 <br>
-
 <p align="center">
         <samp>
                 < I Code what I Think >
@@ -31,7 +30,6 @@
         </a>
         </a>
 </p>
-
 <details align="center">
     <summary> <samp>&#9776; Details</samp></summary>
     <p align="center">
@@ -48,8 +46,24 @@
          <a href="https://github.com/SonyaCore?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 </details>
-<br>
 
+<details align="center">
+    <summary> <samp>&#9825; Donation</samp></summary>
+    <p>If my Projects helped you, you can also help me too ❤️</p>
+<div>
+        <img alt="TRON"
+        src="https://img.shields.io/badge/TRX-Tron-ff69b4" target="_blank"> &nbsp;TTTo7aasobgqH5pKouCJfmPYn2KLed2RA3</a>
+<br>
+        <img alt="Bitcoin"
+        src="https://img.shields.io/badge/BTC-Bitcoin-orange" target="_blank"> &nbsp;bc1qgdav05s04qx99mdveuvdt76jauttcwdq687pc8</a>
+<br>
+        <img alt="Ethereum"
+        src="https://img.shields.io/badge/ETH-Ethereum-blue" target="_blank"> &nbsp;0xD17dF52790f5D6Bf0b29151c7ABC4FFC4056f937</a>
+<br>
+        <img alt="Tether"
+        src="https://img.shields.io/badge/ERC20-Tether-purple" target="_blank"> &nbsp;0xD17dF52790f5D6Bf0b29151c7ABC4FFC4056f937</a>
+</div>
+</details>
 <samp>
     <p align="center">
     ═════ ⋆★⋆ ═════
@@ -57,3 +71,8 @@
         "自由のために"
     </p>
 </samp>
+
+[tron-button]: https://img.shields.io/badge/TRX-Tron-ff69b4
+[tether-button]: https://img.shields.io/badge/ERC20-Tether-purple
+[bitcoin-button]: https://img.shields.io/badge/BTC-Bitcoin-orange
+[ethereum-button]: https://img.shields.io/badge/ETH-Ethereum-blue
