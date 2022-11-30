@@ -35,10 +35,10 @@
     <p align="center">
         <br>
         <img alt="Sonya Core GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=SonyaCore&show_icons=true&theme=tokyonight&border_radius=20&card_width=500" />
+                src="https://github-readme-stats.vercel.app/api?username=SonyaCore&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true" />
         <br>
         <img alt="SonyaCore Most Used Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyaCore&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&card_width=450" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyaCore&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&card_width=450&count_private=true" />
         <br>
         <br>
         <img alt="SonyaCore Counter Status"
