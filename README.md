@@ -1,19 +1,3 @@
-<style>
-    table {
-    width: 60%; /* Adjust as needed */
-    margin: auto;
-}
-
-td {
-    text-align: center;
-}
-
-img {
-    display:inline-table;
-    margin:auto;
-}
-</style>
-
 <h3 align="center">
         <samp>&gt; Hey There!, I am <b>Sonya</b>
         </samp>
