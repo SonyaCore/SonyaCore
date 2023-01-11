@@ -7,7 +7,7 @@
         <samp>
                 < I Code what I Think >
                 <br>
-                < I am a back-end developer and passionate about programming >
+                < I am a software engineer and passionate about programming >
                 <br>
                 <br>
         </samp>
