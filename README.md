@@ -28,15 +28,12 @@
     <summary> <samp>&#9776; Details</samp></summary>
     <p align="center">
         <br>
-        <img alt="Sonya Core GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=SonyaCore&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true" />
+        <img alt="Sonya Core GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SonyaCore&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true" />
         <br>
-        <img alt="SonyaCore Most Used Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyaCore&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&card_width=450&count_private=true" />
+        <img alt="SonyaCore Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyaCore&layout=compact&show_icons=true&theme=tokyonight&border_radius=20&card_width=450&count_private=true" />
         <br>
         <br>
-        <img alt="SonyaCore Counter Status"
-                src="https://komarev.com/ghpvc/?username=SonyaCore&color=ff69b4" />
+        <img alt="SonyaCore Counter Status"src="https://komarev.com/ghpvc/?username=SonyaCore&color=ff69b4" />
          <a href="https://github.com/SonyaCore?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 </details>
