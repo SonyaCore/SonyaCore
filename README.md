@@ -19,9 +19,6 @@
         <a href="https://github.com/SonyaCore?tab=repositories" target="_blank"><img alt="C"
         src="https://img.shields.io/badge/-C-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
-        <a href="https://github.com/SonyaCore?tab=repositories" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
         </a>
                         <br>
        <a href="https://wakatime.com/@268934bd-207d-4a43-829e-61d78af7851b"><img src="https://wakatime.com/badge/user/268934bd-207d-4a43-829e-61d78af7851b.svg" alt="Total time coded since Jan 2 2023" /></a>
