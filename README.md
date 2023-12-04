@@ -5,9 +5,7 @@
 <br>
 <p align="center">
         <samp>
-                < <s> I Code what I Think </s> >
-                <br>
-                < <s> I am a software engineer and passionate about programming </s> >
+                < I Code what I Think </s> >
                 <br>
                 <br>
         </samp>
