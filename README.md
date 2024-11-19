@@ -1,6 +1,11 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am <b>Sonya</b>
-        </samp>
+    <p align="center">
+    ═══════════════
+        <br>
+        <b>"自由のために"</b>
+                    <br>
+    ═══════════════
+    </p>        </samp>
 </h3>
 <br>
 <p align="center">
@@ -33,13 +38,6 @@
          <a href="https://github.com/SonyaCore?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 </details>
-<samp>
-    <p align="center">
-    ═════ ⋆★⋆ ═════
-        <br>
-        "自由のために"
-    </p>
-</samp>
 
 [tron-button]: https://img.shields.io/badge/TRX-Tron-ff69b4
 [tether-button]: https://img.shields.io/badge/ERC20-Tether-purple
