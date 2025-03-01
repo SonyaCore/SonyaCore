@@ -10,7 +10,7 @@
 <br>
 <p align="center">
         <samp>
-                < I Code what I Think </s> >
+                < A Fighter. </s> >
                 <br>
                 <br>
         </samp>
