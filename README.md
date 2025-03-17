@@ -29,9 +29,6 @@
 <!--     <summary> <samp>&#9776; Details</samp></summary> -->
     <p align="center">
         <br>
-        <br>
-        <br>
-        <br>
         <img alt="SonyaCore Counter Status"src="https://komarev.com/ghpvc/?username=SonyaCore&color=ff69b4" />
          <a href="https://github.com/SonyaCore?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
